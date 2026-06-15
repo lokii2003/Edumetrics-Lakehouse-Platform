@@ -44,8 +44,8 @@ elearning-lakehouse/
 ---
 ## Dashboard Overview
 
-![Dashboard](screenshots/C:\Down\EduMetrics\Screenshot\Screenshot 2026-06-15 215617.png)
-![Dashboard](screenshots/C:\Down\EduMetrics\Screenshot\Screenshot 2026-06-15 215609.png)
+![Dashboard](screenshots/Screenshot 2026-06-15 215617.png)
+![Dashboard](screenshots/Screenshot 2026-06-15 215609.png)
 
 
 
