@@ -44,8 +44,8 @@ elearning-lakehouse/
 ---
 ## Dashboard Overview
 
-![Dashboard](Screenshot/Screenshot 2026-06-15 215617.png)
-![Dashboard](Screenshot/Screenshot 2026-06-15 215609.png)
+![Dashboard Home](Screenshot/dashboard_home.png)
+![Funnel Metrics Analysis](Screenshot/funnel_metrics.png)
 
 
 
