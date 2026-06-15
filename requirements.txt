@@ -1,0 +1,12 @@
+# Core pipeline
+pyspark>=3.5.0
+delta-spark>=3.1.0
+
+# Dashboard
+streamlit>=1.32.0
+plotly>=5.18.0
+pandas>=2.1.0
+numpy>=1.26.0
+
+# Airflow (install separately)
+# pip install apache-airflow

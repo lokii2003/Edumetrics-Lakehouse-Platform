@@ -1,0 +1,18 @@
+# Generated data
+data/
+delta/
+checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Spark
+spark-warehouse/
+derby.log
+metastore_db/
+
+# IDE
+.idea/
+.vscode/
